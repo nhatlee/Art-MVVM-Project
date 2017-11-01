@@ -1,0 +1,50 @@
+PODS:
+  - CHTCollectionViewWaterfallLayout/Swift (0.9.7)
+  - Kingfisher (4.1.0)
+  - PINCache (3.0.1-beta.5):
+    - PINCache/Arc-exception-safe (= 3.0.1-beta.5)
+    - PINCache/Core (= 3.0.1-beta.5)
+  - PINCache/Arc-exception-safe (3.0.1-beta.5):
+    - PINCache/Core
+  - PINCache/Core (3.0.1-beta.5):
+    - PINOperation (= 1.0.3)
+  - PINOperation (1.0.3)
+  - PINRemoteImage/Core (3.0.0-beta.12):
+    - PINOperation
+  - PINRemoteImage/iOS (3.0.0-beta.12):
+    - PINRemoteImage/Core
+  - PINRemoteImage/PINCache (3.0.0-beta.12):
+    - PINCache (= 3.0.1-beta.5)
+    - PINRemoteImage/Core
+  - SDWebImage (4.1.2):
+    - SDWebImage/Core (= 4.1.2)
+  - SDWebImage/Core (4.1.2)
+  - SVPullToRefresh (0.4.1)
+  - Texture (2.5):
+    - Texture/PINRemoteImage (= 2.5)
+  - Texture/Core (2.5)
+  - Texture/PINRemoteImage (2.5):
+    - PINRemoteImage/iOS (= 3.0.0-beta.12)
+    - PINRemoteImage/PINCache
+    - Texture/Core
+
+DEPENDENCIES:
+  - CHTCollectionViewWaterfallLayout/Swift
+  - Kingfisher
+  - SDWebImage
+  - SVPullToRefresh
+  - Texture
+
+SPEC CHECKSUMS:
+  CHTCollectionViewWaterfallLayout: 9d11068fafecac106695bb5a5d6d0f738483b598
+  Kingfisher: f14df8cbe576bf55f211fa589e9869bceb4ea87d
+  PINCache: 98e7b1ef782824ad231ade51987c218b758c30d8
+  PINOperation: ac23db44796d4a564ecf9b5ea7163510f579b71d
+  PINRemoteImage: 0cefe720c2612960bd360710efbd6c73a1991d5f
+  SDWebImage: cb6f9f266a9977741efcbc21e618e8be3734c774
+  SVPullToRefresh: ba2e718695a43253d8bea6852d2960097dc15d8c
+  Texture: 12eb0807c117aaa21ef86f7f52dc61cc13e59739
+
+PODFILE CHECKSUM: a430671448ff9acdc88a8f0849b0daf73a872e33
+
+COCOAPODS: 1.3.1
